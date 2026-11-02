@@ -1,1 +1,25 @@
-The files in this folder are examples of lifespan experiments conducted and analyzed using this repository. 
+The files in this folder are examples of lifespan experiments conducted and analyzed using this repository. Please see a key explaining the files below.
+
+Results must be compared by sex. All experiments were conducted in the Arm>Gal4 background and have two controls: VDRC 2691 and VDRC 60000. RNAi experiments are compared to VDRC 2691, other experiments are compared to VDRC 60000. 
+
+11371f_data.csv - nacalpha improves lifespan in females with partial loss of function (BDSC 11371)
+
+11371m_data.csv - nacalpha improves lifespan in males with partial loss of function (BDSC 11371)
+
+44603_44601M - ggamma1 improves lifespan in males with overexpression (BDSC 44603 and 44601)
+
+44603F_data.csv - ggamma1 improves lifespan in females with overexpression (BDSC 44603)
+
+46556_and_30413_data.csv - RNAi knockdown of Lst8 (VDRC 46556) and ND-ASHI (VDRC 30413) improves lifespan in males, but not female animals
+
+66322f_data.csv - CG42450 manipulation does not improve lifespan in females (BDSC 66322)
+
+66322m_data.csv - CG42450 manipulation improves lifespan in males (BDSC 66322)
+
+99593f_data.csv - Overexpression of veli does not significantly extend female lifespan (BDSC 99593)
+
+99593m_data.csv - Overexpression of veli significantly improves male lifespan (BDSC 99593)
+
+91419_data.csv - modulation of Atg5 (BDSC 91419) improves lifespan in males, but not female animals
+
+13768_data.csv - modulation of drak (BDSC 13768) improves lifespan in males, but not female animals
