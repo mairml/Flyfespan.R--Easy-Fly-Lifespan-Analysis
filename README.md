@@ -1,5 +1,5 @@
 # Flyfespan.R---Easy-Fly-Lifespan-Analysis
-Analyze data from fruit fly (Drosophila) longevity assays in R with an easy, customizable script and template.
+Analyze data from fruit fly (Drosophila) longevity assays in R with an easy, customizable script and template. Analyze survival curves for differences in fly lifespan ("flyfespan").
 
 Includes example data and a template for collecting lifespan data during an experiment for future analysis.
 ================CONTENTS===============
